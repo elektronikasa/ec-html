@@ -1,0 +1,18 @@
+webpack dev server
+{
+  "name": "channel-center-ec",
+  "version": "1.0.0",
+  "description": "E-commerce frontend boilerplate - initial round",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-sass": "^3.1.0",
+    "modernizr-detectizr": "0.0.2",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  }
+}
